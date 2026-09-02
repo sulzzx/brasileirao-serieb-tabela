@@ -6,7 +6,7 @@
 | :---------------------- | :-------------------------------------- |
 | *Curso*                 | Desenvolvimento de Sistemas             |
 | *Tema*                  | Tabela do Campeonato Brasileiro Série B |
-| *Local / Laboratório*   | Sala 107                                |
+| *Sala*                  | Sala 107                                |
 
 ### 👥 Integrantes da Equipe
 
